@@ -14,6 +14,10 @@ WindowsPC向けに作成されています。Windows8.1以外の環境での動�
 ゲームの実行ファイルを付属していますので実際に遊ぶことができます。  
 [SS5Player for UnrealEngine4](https://github.com/SpriteStudio/SS5PlayerForUnrealEngine4)を利用したゲーム制作に役立出ていただければ幸いです。  
   
+##ダウンロード
+Gitを使用しない場合はこちらからダウンロードする事ができます。  
+[ダウンロード](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
+  
 ## 謝辞
 サウンドファイルについてはMusMus様が作成したデータを使用させていただきました。  
 ありがとうございます。  
