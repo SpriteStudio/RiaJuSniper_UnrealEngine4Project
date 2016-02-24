@@ -1,0 +1,26 @@
+﻿[2016.02.19-03.20.48:893][  0]Log file open, 02/19/16 12:20:48
+[2016.02.19-03.20.48:893][  0]LogInit:Display: Running engine for game: RiaJu
+[2016.02.19-03.20.48:893][  0]LogPlatformFile: Not using cached read wrapper
+[2016.02.19-03.20.48:893][  0]LogInit:Display: RandInit(421457631) SRandInit(421457634).
+[2016.02.19-03.20.48:893][  0]LogTaskGraph: Started task graph with 4 named threads and 5 total threads.
+[2016.02.19-03.20.48:893][  0]LogStats: Stats thread started at 0.083470
+[2016.02.19-03.20.48:893][  0]LogModuleManager:Warning: ModuleManager: Unable to load module 'SpriteStudio5' because the file 'E:/UnrealEngine/Epic Games/4.10/Engine/Binaries/Win64/' was not found.
+[2016.02.19-03.21.42:644][  0]LogExit: Preparing to exit.
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.02.19-03.21.42:645][  0]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.02.19-03.21.42:647][  0]LogExit: Exiting.
+[2016.02.19-03.21.42:651][  0]Log file closed, 02/19/16 12:21:42
