@@ -16,8 +16,8 @@ WindowsPC向けに作成されています。Windows8.1以外の環境での動�
   
 ##ダウンロード
 すぐに遊びたい場合、Gitを使用しない場合はこちらからダウンロードしてください。  
-[https://github.com/SpriteStudio/SpriteStudioGame02/blob/master/image/RB_Inst.png](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
-[ダウンロード!](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)
+[ロゴ](https://github.com/SpriteStudio/SpriteStudioGame02/blob/master/image/RB_Inst.png)  
+[ダウンロード!](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
   
 ## 謝辞
 サウンドファイルについてはMusMus様が作成したデータを使用させていただきました。  
