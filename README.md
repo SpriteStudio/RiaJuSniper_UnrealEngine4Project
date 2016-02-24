@@ -7,7 +7,7 @@
 ==============================================================================
 
 ## <a name="abut">概要  
-リア充スナイパーＲ・Ｂ Unreal Engine 4プロジェクト は [SS5Player for UnrealEngine4](https://github.com/SpriteStudio/SS5PlayerForUnrealEngine4)を使用したゲーム開発のサンプルプロジェクトとして、[Unreal Engine 4](https://www.unrealengine.com/ja/what-is-unreal-engine-4)のプロジェクトファイルを公開する事といたしました。  
+リア充スナイパーＲ・Ｂ Unreal Engine 4プロジェクト は、[SS5Player for UnrealEngine4](https://github.com/SpriteStudio/SS5PlayerForUnrealEngine4) を使用したゲーム開発のサンプルプロジェクトとして、[Unreal Engine 4](https://www.unrealengine.com/ja/what-is-unreal-engine-4)のプロジェクトファイル一式を公開するためのリポジトリです。  
 このプロジェクトに含まれるソースファイルは[ライセンス](https://github.com/SpriteStudio/SpriteStudioGame02/blob/master/LICENSE)を参照し使用してください。  
 WindowsPC向けに作成されています。Windows8.1以外の環境での動作確認はしておりませんのでご了承ください。  
   
