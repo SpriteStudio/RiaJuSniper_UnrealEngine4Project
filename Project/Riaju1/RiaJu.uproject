@@ -1,0 +1,9 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.10",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
