@@ -38,8 +38,7 @@ WindowsPC向けに作成されています。Windows8.1以外の環境での動�
   
 ##ダウンロード
 すぐに遊びたい場合はこちらからダウンロードしてください。Gitを使用しない場合もこちらから。  
-### [ダウンロード](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
-[![ダウンロード](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/image/logo.png)](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
+[![ダウンロード](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/image/ria_bunner)](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
   
 ## 実行方法
   WindowsNoEditorフォルダに含まれるRiaJu.exeを実行してください。
