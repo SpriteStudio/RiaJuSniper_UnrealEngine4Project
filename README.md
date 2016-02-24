@@ -14,11 +14,6 @@ WindowsPC向けに作成されています。Windows8.1以外の環境での動�
 ゲームの実行ファイルを付属していますので実際に遊ぶことができます。  
 [SS5Player for UnrealEngine4](https://github.com/SpriteStudio/SS5PlayerForUnrealEngine4)を利用したゲーム制作に役立出ていただければ幸いです。  
   
-##ダウンロード
-すぐに遊びたい場合はこちらからダウンロードしてください。Gitを使用しない場合もこちらから。  
-### [ダウンロード](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
-[![ダウンロード](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/image/logo.png)](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
-  
 ## 謝辞
 サウンドファイルについてはMusMus様が作成したデータを使用させていただきました。  
 ありがとうございます。  
@@ -40,6 +35,11 @@ WindowsPC向けに作成されています。Windows8.1以外の環境での動�
 - [SS5Player for UnrealEngine4](https://github.com/SpriteStudio/SS5PlayerForUnrealEngine4/wiki) Ver1.1.0  
 - [Unreal Engine 4](https://www.unrealengine.com/ja/what-is-unreal-engine-4) Ver4.10.2  
 - プロジェクトのビルドには[Visual Studio Community 2015](https://www.visualstudio.com/)が必要となります。  
+  
+##ダウンロード
+すぐに遊びたい場合はこちらからダウンロードしてください。Gitを使用しない場合もこちらから。  
+### [ダウンロード](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
+[![ダウンロード](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/image/logo.png)](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
   
 ## 実行方法
   WindowsNoEditorフォルダに含まれるRiaJu.exeを実行してください。
