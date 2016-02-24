@@ -12,8 +12,6 @@
 WindowsPC向けに作成されています。Windows8.1以外の環境での動作確認はしておりませんのでご了承ください。  
   
 ゲームの実行ファイルを付属していますので実際に遊ぶことができます。  
-楽しんでいただければ幸いです。  
-  
 [SS5Player for UnrealEngine4](https://github.com/SpriteStudio/SS5PlayerForUnrealEngine4)を利用したゲーム制作に役立出ていただければ幸いです。  
   
 ## 謝辞
