@@ -8,16 +8,15 @@
 
 ## <a name="abut">概要  
 リア充スナイパーＲ・Ｂ Unreal Engine 4プロジェクト は、[SS5Player for UnrealEngine4](https://github.com/SpriteStudio/SS5PlayerForUnrealEngine4) を使用したゲーム開発のサンプルプロジェクトとして、[Unreal Engine 4](https://www.unrealengine.com/ja/what-is-unreal-engine-4)のプロジェクトファイル一式を公開するためのリポジトリです。  
-このプロジェクトに含まれるソースファイルは[ライセンス](https://github.com/SpriteStudio/SpriteStudioGame02/blob/master/LICENSE)を参照し使用してください。  
+このプロジェクトに含まれるソースファイルは[ライセンス](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/LICENSE)を参照し使用してください。  
 WindowsPC向けに作成されています。Windows8.1以外の環境での動作確認はしておりませんのでご了承ください。  
   
 ゲームの実行ファイルを付属していますので実際に遊ぶことができます。  
 [SS5Player for UnrealEngine4](https://github.com/SpriteStudio/SS5PlayerForUnrealEngine4)を利用したゲーム制作に役立出ていただければ幸いです。  
   
 ##ダウンロード
-すぐに遊びたい場合、Gitを使用しない場合はこちらからダウンロードしてください。  
-![ロゴ](https://github.com/SpriteStudio/SpriteStudioGame02/blob/master/image/logo.png)  
-[###ダウンロードはこちら!](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
+すぐに遊びたい場合はこちらからダウンロードしてください。Gitを使用しない場合もこちらから。  
+[![ダウンロード](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/image/logo.png)](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/archive/master.zip)  
   
 ## 謝辞
 サウンドファイルについてはMusMus様が作成したデータを使用させていただきました。  
@@ -57,18 +56,18 @@ WindowsPC向けに作成されています。Windows8.1以外の環境での動�
   ゲーム終了  
   
 ## 遊び方
-![画像](https://github.com/SpriteStudio/SpriteStudioGame02/blob/master/image/RB_Inst.png)  
+![画像](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/image/RB_Inst.png)  
 リア充スナイパーＲ・Ｂは凄腕スナイパーとなったあなたが、地球の未来を守るため二人の出会わせないようにするゲームです。  
   
-![画像](https://github.com/SpriteStudio/SpriteStudioGame02/blob/master/image/RB_Title.png)  
+![画像](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/image/RB_Title.png)  
 凄腕スナイパーとなったあなたに、とある指令が届きます。
 「君にこの二人の出会いを邪魔してもらいたい。」  
   
-![画像](https://github.com/SpriteStudio/SpriteStudioGame02/blob/master/image/RB_Main2.png)  
+![画像](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/image/RB_Main2.png)  
 ターゲットの周りにある物を狙撃して脅かし、出会いのモチベーションを下げるのだ！  
 二人が出会ってしまう、人を撃つと捕まってしまいゲームオーバーとなるので注意しよう。  
   
-![画像](https://github.com/SpriteStudio/SpriteStudioGame02/blob/master/image/RB_Main1.png)  
+![画像](https://github.com/SpriteStudio/RiaJuSniper_UnrealEngine4Project/blob/master/image/RB_Main1.png)  
 スコープを覗いている間は視界が狭く全体を把握できない。
 二人の位置を把握しながら邪魔をする事が攻略のポイントだ。  
   
