@@ -2,7 +2,7 @@
 
 # リア充スナイパーＲ・Ｂ Unreal Engine 4プロジェクト
 
-  Copyright(C) Web Technology Corp. All rights reserved.
+Copyright © CRI Middleware Co., Ltd.
 
 ==============================================================================
 
@@ -76,9 +76,9 @@ WindowsPC向けに作成されています。Windows8.1以外の環境での動�
   
 ==============================================================================
 
-株式会社ウェブテクノロジ  
-http://www.webtech.co.jp/  
-Copyright(C) Web Technology Corp.  
+株式会社ＣＲＩ・ミドルウェア
+​https://www.cri-mw.co.jp/
+Copyright © CRI Middleware Co., Ltd.
 
 ==============================================================================
 
